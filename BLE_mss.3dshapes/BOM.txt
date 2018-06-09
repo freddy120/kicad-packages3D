@@ -1,0 +1,9 @@
+3DX_CUI_Supplier:
+     CUI, Inc
+
+3DX_CUI_Description:
+     12 Vdc, 4.16 A, 50 W, 9~36 Vdc Input Range
+
+3DX_CUI_Model Number:
+     VHB50W-Q24-S12
+
